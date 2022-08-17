@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jewellary/static/css/main.056d3d7b.css",
+    "main.js": "/jewellary/static/js/main.cb5c30ef.js",
+    "static/media/ring3.png": "/jewellary/static/media/ring3.8e05b6e2b4fc2ecc9b51.png",
+    "static/media/request_bg.png": "/jewellary/static/media/request_bg.1dc4aa0302bd4c28114b.png",
+    "static/media/bangal.png": "/jewellary/static/media/bangal.3e3b5b0c348fbe27f5b2.png",
+    "static/media/ring2.png": "/jewellary/static/media/ring2.ee1ee1907e554b1c7627.png",
+    "static/media/header_bg.png": "/jewellary/static/media/header_bg.3440bff230e2de51fab2.png",
+    "static/media/clients.png": "/jewellary/static/media/clients.c34d4acee6e92bf22435.png",
+    "static/media/ring1.png": "/jewellary/static/media/ring1.9a1fc0124cd174030cf9.png",
+    "index.html": "/jewellary/index.html",
+    "main.056d3d7b.css.map": "/jewellary/static/css/main.056d3d7b.css.map",
+    "main.cb5c30ef.js.map": "/jewellary/static/js/main.cb5c30ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.056d3d7b.css",
+    "static/js/main.cb5c30ef.js"
+  ]
+}
